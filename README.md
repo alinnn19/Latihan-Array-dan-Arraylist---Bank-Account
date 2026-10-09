@@ -9,13 +9,13 @@ Bank.java: Mengelola data nasabah bank menggunakan array.
 BankDemo.java: Program utama untuk menjalankan simulasi perbankan.
 
 ## Konsep yang Digunakan
-Class dan Object
-Encapsulation
-Constructor
-Method dan Return Value
-Array of Objects
-Perulangan for
-Percabangan if-else
+-Class dan Object
+-Encapsulation
+-Constructor
+-Method dan Return Value
+-Array of Objects
+-Perulangan for
+-Percabangan if-else
 
 ## Library
 Program ini tidak menggunakan library tambahan
