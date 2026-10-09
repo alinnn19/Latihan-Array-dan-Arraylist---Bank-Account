@@ -1,4 +1,4 @@
-# Tugas PBO Array dan ArrayList
+# 💸 Tugas PBO Array dan ArrayList 💸
 ## Deskripsi
 Program simulasi perbankan sederhana yang dibuat menggunakan bahasa pemrograman Java. Program ini menerapkan konsep Object-Oriented Programming (OOP) serta penggunaan array untuk mengelola data nasabah dan rekening.
 
@@ -19,3 +19,6 @@ Percabangan if-else
 
 ## Library
 Program ini tidak menggunakan library tambahan
+
+## Hasil Output Program
+<img width="477" height="490" alt="image" src="https://github.com/user-attachments/assets/e1664663-c394-49f6-b2d7-01ec909fb034" />
